@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="D:\xampp\htdocs\loguearusuario\loguearusuario.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/loguearusuario/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/loguearusuario/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";D:\xampp\htdocs\loguearusuario\vistalogin2.html;D:\xampp\htdocs\loguearusuario\vistaloguin2.html;"/><added value=""/><lastopfiles>
+		<file name="D:\xampp\htdocs\loguearusuario\controladorlogin.php"/>
+		<file name="D:\xampp\htdocs\loguearusuario\vistalogin.html"/>
+	</lastopfiles>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="_POST;PHP:Var Name;D:\xampp\htdocs\loguearusuario\loguin.php;f9;2;15;2;;D:\xampp\htdocs\loguearusuario\controladorlogin.php;f9;3;15;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="clave;PHP:Var Name;D:\xampp\htdocs\loguearusuario\loguin.php;f0;3;6;3;;D:\xampp\htdocs\loguearusuario\controladorlogin.php;f0;5;6;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="usuario;PHP:Var Name;D:\xampp\htdocs\loguearusuario\loguin.php;f0;2;8;2;;D:\xampp\htdocs\loguearusuario\controladorlogin.php;f0;3;8;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><todoblock>
+	</todoblock>
+	<filescache>
+		<file name="D:\xampp\htdocs\loguearusuario\controladorlogin.php" crc="-671290883"/>
+	</filescache>
+</project>

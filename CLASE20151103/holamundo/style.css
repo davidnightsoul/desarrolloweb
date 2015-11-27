@@ -1,0 +1,95 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #fafafa;
+	font-family: 'Open Sans', arial, sans-serif;
+}
+
+h1{
+	font-family: 'Pacifico', arial, sans-serif; 
+	font-size: 3rem; 
+	text-align: center;}
+
+table.datos {
+	border-spacing: 0; 
+	border-collapse: collapse; 
+	width: 100%;}
+table.datos th {
+	background-color: #fe9241; 
+	color: white;}
+table.datos tr:hover td { 
+	background: #d0dafd; 
+	color: #339;}
+
+td, th { 
+	border: 1px solid transparent; 
+	height: 30px;}
+
+table.datos tr:nth-child(odd) {
+	background-color: #eaf5ff;}
+table.datos tr:nth-child(even) {
+	background-color: #eafff1;}
+
+a[href^="mailto:"]{
+	background-color: #000f95;
+	color:#69a3e8;}
+a {
+	color: #3b38c1;
+	padding: 0 4px;
+	text-decoration: none;
+	border-bottom: 1px solid #69a3e8;
+}
+a:hover{
+	background: #69a3e8;
+	text-decoration: none;
+	color: #fff;
+	-webkit-transition: all .2s ease-in;
+	transition: all .2s ease-in}
+	
+::selection {
+	background: #00b5f0;
+	color: #ffffff;
+}
+td:window-inactive {
+	background: #EEE;
+}
+
+
+form    {
+	padding: 5px;
+	margin: 10px;
+	width:95%;
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+#submit {
+	background-color: #dfffe1;
+	}
+
+form > fieldset {
+	padding: 5px;
+    border: 1px solid;
+    border-color: rgba(128, 128, 128, 0.51);
+	}
+legend {
+	font-weight: bold;
+	}
+input::disabled, textarea::read-only	{
+	background-color: rgba(128, 128, 128, 0.35);
+	}
+fieldset.login {
+	text-align: center;
+	}
+form#login	{width: 250;
+}
+#login > fieldset > input[type="submit"]{
+	width: 100%
+	}
+

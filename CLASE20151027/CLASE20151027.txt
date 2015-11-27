@@ -1,0 +1,10 @@
+PROGRAMAS USADOS
+CodeLobster 5.7
+XAMPP
+
+*CTRL+ALT+F ===> formatea el proyecto
+*Herramientas->Configurar->Preferencias->Depurador->Configuracion : Automatica mientras corre el Apache
+
+
+HTML
+*Creamos tabla

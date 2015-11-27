@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="D:\xampp\htdocs\sentencias1\sentencias1.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/sentencias1/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/sentencias1/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="D:\xampp\htdocs\sentencias1\sentencias.php"/>
+		<file name="D:\xampp\htdocs\sentencias1\suma2nros.php"/>
+		<file name="D:\xampp\htdocs\sentencias1\ejercicio-superficie.php"/>
+		<file name="D:\xampp\htdocs\sentencias1\style.css"/>
+		<file name="D:\xampp\htdocs\sentencias1\ejericio-nro_mayor.php"/>
+		<file name="D:\xampp\htdocs\sentencias1\ejercicio-temperaturas.php"/>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="_POST;PHP:Var Name;D:\xampp\htdocs\sentencias1\sentencias.php;f3;22;9;22;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="descuento;PHP:Var Name;D:\xampp\htdocs\sentencias1\ejericio-.php;f1;48;11;48;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="i;PHP:Var Name;D:\xampp\htdocs\sentencias1\ejericio-.php;f5;26;7;26;;D:\xampp\htdocs\sentencias1\Codelobster0.php;f4;4;6;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="mayor;PHP:Var Name;D:\xampp\htdocs\sentencias1\ejericio-.php;f1;9;7;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="mayorn;PHP:Var Name;D:\xampp\htdocs\sentencias1\ejericio-.php;f0;19;7;19;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="num1;PHP:Var Name;D:\xampp\htdocs\sentencias1\sentencias.php;f2;24;7;24;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="num2;PHP:Var Name;D:\xampp\htdocs\sentencias1\sentencias.php;f2;25;7;25;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="promedio;PHP:Var Name;D:\xampp\htdocs\sentencias1\Codelobster0.php;f0;7;9;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="sdo1;PHP:Var Name;D:\xampp\htdocs\sentencias1\ejericio-nro_mayor.php;f0;1;5;1;;D:\xampp\htdocs\sentencias1\ejericio-.php;f0;2;5;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="sdo2;PHP:Var Name;D:\xampp\htdocs\sentencias1\ejericio-nro_mayor.php;f0;2;5;2;;D:\xampp\htdocs\sentencias1\ejericio-.php;f0;3;5;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="sdo3;PHP:Var Name;D:\xampp\htdocs\sentencias1\ejericio-nro_mayor.php;f0;3;5;3;;D:\xampp\htdocs\sentencias1\ejericio-.php;f0;4;5;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="sdo4;PHP:Var Name;D:\xampp\htdocs\sentencias1\ejericio-nro_mayor.php;f0;4;5;4;;D:\xampp\htdocs\sentencias1\ejericio-.php;f0;5;5;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="sueldo;PHP:Var Name;D:\xampp\htdocs\sentencias1\ejericio-.php;f0;37;7;37;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="suma;PHP:Var Name;D:\xampp\htdocs\sentencias1\sentencias.php;f2;26;7;26;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="temp;PHP:Var Name;D:\xampp\htdocs\sentencias1\Codelobster0.php;f0;3;5;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="total;PHP:Var Name;D:\xampp\htdocs\sentencias1\Codelobster0.php;f1;5;7;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><todoblock>
+	</todoblock>
+	<filescache>
+		<file name="D:\xampp\htdocs\sentencias1\suma2nros.php" crc="700901222"/>
+		<file name="D:\xampp\htdocs\sentencias1\sentencias.php" crc="137829784"/>
+		<file name="D:\xampp\htdocs\sentencias1\ejericio-nro_mayor.php" crc="639877393"/>
+		<file name="D:\xampp\htdocs\sentencias1\ejercicio-temperaturas.php" crc="-302276068"/>
+		<file name="D:\xampp\htdocs\sentencias1\ejercicio-superficie.php" crc="1212161283"/>
+	</filescache>
+</project>

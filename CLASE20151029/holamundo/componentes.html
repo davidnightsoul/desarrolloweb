@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>Componentes de formularios HTML</title>
+		<meta name="author" content="David">
+		<link href="style.css" rel="stylesheet"/>
+	</head>
+	<body>
+		<h1>Encuesta</h1>
+		<form>
+			<label for="txtNomApe">Nombre y Apellido</label>
+			<input type="text" name="txtNomApe" id="txtNomApe"/><br/>
+			<label for="lstSexo">Sexo:</label>
+			<select name="lstSexo">
+				<option value="1">Femenino</option>
+				<option value="2">Masculino</option>
+			</select><br/>
+			<label for="edad">Edad:</label>
+			<input type="radio" name="edad" id="menor" value="1">Menor 21 años</input>
+			<input type="radio" name="edad" id="mayor" value="2">Mayor a 21 años</input>
+			<input type="radio" name="edad" id="mmayor" value="3">Mayor a 40 años</input><br/>
+			<label for="lenguaje[]">Seleccione los lenguajes que conozca:</label>
+			<input type="checkbox" name="lenguaje[]" value="1">PHP</input>
+			<input type="checkbox" name="lenguaje[]" value="2">Java</input>
+			<input type="checkbox" name="lenguaje[]" value="3">C++</input>
+			<input type="checkbox" name="lenguaje[]" value="4">Ninguno</input><br/>
+			<label for="horario[]">Seleccione uno o varios horarios predilectos</label>
+			<select name="horario[]" size="3" multiple="true">
+				<option value="m">Mañana</option>
+				<option value="t">Tarde</option>
+				<option value="n">Noche</option>
+			</select><br/>
+			<label for="comentario">Comentario</label><br/>
+			<textarea cols="50" rows="10" name="comentario"></textarea><br/>
+			
+			<input type="reset" name="reset" id="reset" value="Cancelar"/>
+			<input type="submit" name="submit" id="submit"  value="Enviar Encuesta"/>
+		</form>
+		
+		
+		
+	</body>
+</html>

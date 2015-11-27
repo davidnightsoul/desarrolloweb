@@ -1,0 +1,8 @@
+*Formato de tablas con celdas combinadas
+** rowspan y colspan (propiedades de tabla)
+*Definicion de Estado innerline
+
+
+
+EXTRA: 
+http://code.tutsplus.com/es/tutorials/the-30-css-selectors-you-must-memorize--net-16048

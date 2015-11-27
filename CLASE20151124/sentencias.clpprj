@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="D:\xampp\htdocs\sentencias\sentencias.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/sentencias/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/sentencias/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="D:\xampp\htdocs\sentencias\ejercio1.php"/>
+		<file name="D:\xampp\htdocs\sentencias\login.php"/>
+		<file name="D:\xampp\htdocs\sentencias\vistalogin.html"/>
+		<file name="D:\xampp\htdocs\sentencias\switch.php"/>
+	</lastopfiles>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="_POST;PHP:Var Name;D:\xampp\htdocs\sentencias\login.php;f11;1;17;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="clave;PHP:Var Name;D:\xampp\htdocs\sentencias\login.php;f2;2;8;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="color;PHP:Var Name;D:\xampp\htdocs\sentencias\proyectosanchez.php;f7;2;13;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="usuario;PHP:Var Name;D:\xampp\htdocs\sentencias\login.php;f2;1;10;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><todoblock>
+	</todoblock>
+	<filescache>
+		<file name="D:\xampp\htdocs\sentencias\switch.php" crc="-1182733472"/>
+		<file name="D:\xampp\htdocs\sentencias\login.php" crc="-1934516150"/>
+		<file name="D:\xampp\htdocs\sentencias\ejercio1.php" crc="1788845893"/>
+	</filescache>
+</project>

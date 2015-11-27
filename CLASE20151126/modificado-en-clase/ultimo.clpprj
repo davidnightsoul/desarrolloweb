@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="D:\xampp\htdocs\form\2611\ultimo.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/form/2611]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/form/2611]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="D:\xampp\htdocs\form\2611\ejercicio6.php"/>
+		<file name="D:\xampp\htdocs\form\2611\ejercicio7.php"/>
+		<file name="D:\xampp\htdocs\form\2611\login.php"/>
+		<file name="D:\xampp\htdocs\form\2611\ejercicio5.php"/>
+		<file name="D:\xampp\htdocs\form\2611\vistaLogin.html"/>
+		<file name="D:\xampp\htdocs\form\2611\calculadora.php"/>
+		<file name="D:\xampp\htdocs\form\2611\vistaCalculadora.html"/>
+	</lastopfiles>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="_POST;PHP:Var Name;D:\xampp\htdocs\form\2611\login.php;f11;2;17;2;;D:\xampp\htdocs\form\2611\calculadora.php;f8;1;14;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="a;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio1.php;f0;3;2;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="altura;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio2.php;f0;5;7;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="area;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio2.php;f0;9;5;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="array;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio7.php;f0;4;6;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="array_equipo;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio7.php;f0;61;13;61;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="b;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio1.php;f0;4;2;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="base;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio2.php;f0;3;5;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="c;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio1.php;f0;5;2;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="cadena;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio7.php;f0;70;7;70;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="cadena_equipo;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio7.php;f0;63;14;63;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="cadena_equipo2;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio7.php;f0;66;15;66;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="clave;PHP:Var Name;D:\xampp\htdocs\form\2611\login.php;f0;4;6;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="color;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio5.php;f0;4;6;4;;D:\xampp\htdocs\form\2611\ejercicio6.php;f0;4;6;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="dif1;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio4.php;f0;11;5;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="dif2;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio4.php;f0;12;5;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="dif3;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio4.php;f0;13;5;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="dif4;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio4.php;f0;14;5;14;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="difa;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio1.php;f0;13;5;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="difb;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio1.php;f0;14;5;14;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="difc;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio1.php;f0;15;5;15;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="dto;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio3.php;f1;24;5;24;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="equipo;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio7.php;f0;29;7;29;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="i;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio7.php;f4;7;6;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="jugador;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio7.php;f30;31;38;31;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="matriz;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio7.php;f0;41;7;41;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="mayor;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio3.php;f0;7;6;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="msj;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio5.php;f0;6;4;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="nombre;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio7.php;f0;3;7;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="nro1;PHP:Var Name;D:\xampp\htdocs\form\2611\calculadora.php;f0;1;5;1;;;;vposint;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="nro2;PHP:Var Name;D:\xampp\htdocs\form\2611\calculadora.php;f0;2;5;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="operacion;PHP:Var Name;D:\xampp\htdocs\form\2611\calculadora.php;f1;10;11;10;;;;vposint;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="p;PHP:Var Name;D:\xampp\htdocs\form\2611\if.php;f0;1;2;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="pilotos;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio7.php;f0;51;8;51;;;;vposint;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="posicion;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio7.php;f19;31;28;31;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="prom;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio4.php;f0;8;5;8;;D:\xampp\htdocs\form\2611\ejercicio1.php;f0;6;5;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="q;PHP:Var Name;D:\xampp\htdocs\form\2611\if.php;f0;2;2;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="resultado;PHP:Var Name;D:\xampp\htdocs\form\2611\calculadora.php;f3;13;13;13;;;;vposint;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="sdo1;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio3.php;f0;3;5;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="sdo2;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio3.php;f0;4;5;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="sdo3;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio3.php;f0;5;5;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="sdo4;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio3.php;f0;6;5;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="temp1;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio4.php;f0;3;6;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="temp2;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio4.php;f0;4;6;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="temp3;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio4.php;f0;5;6;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="temp4;PHP:Var Name;D:\xampp\htdocs\form\2611\ejercicio4.php;f0;6;6;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="usuario;PHP:Var Name;D:\xampp\htdocs\form\2611\login.php;f0;2;8;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="valBtn;PHP:Var Name;D:\xampp\htdocs\form\2611\calculadora.php;f1;5;8;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><todoblock>
+	</todoblock>
+	<filescache>
+		<file name="D:\xampp\htdocs\form\2611\login.php" crc="1914673164"/>
+		<file name="D:\xampp\htdocs\form\2611\if.php" crc="-619223189"/>
+		<file name="D:\xampp\htdocs\form\2611\ejercicio7.php" crc="480867777"/>
+		<file name="D:\xampp\htdocs\form\2611\ejercicio6.php" crc="2635429"/>
+		<file name="D:\xampp\htdocs\form\2611\ejercicio5.php" crc="1516954511"/>
+		<file name="D:\xampp\htdocs\form\2611\ejercicio4.php" crc="1739913325"/>
+		<file name="D:\xampp\htdocs\form\2611\ejercicio3.php" crc="1824841522"/>
+		<file name="D:\xampp\htdocs\form\2611\ejercicio2.php" crc="-833641034"/>
+		<file name="D:\xampp\htdocs\form\2611\ejercicio1.php" crc="-2012834355"/>
+		<file name="D:\xampp\htdocs\form\2611\calculadora.php" crc="1006220987"/>
+	</filescache>
+</project>

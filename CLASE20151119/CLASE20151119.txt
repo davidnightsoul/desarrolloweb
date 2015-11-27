@@ -1,0 +1,1 @@
+La clase del jueves 19/11 vimos como loguear un usuario, validamos los datos ingresados y solo dejamos entrar si el usuario se llamaba "pepe" y su contraseña "1234"
