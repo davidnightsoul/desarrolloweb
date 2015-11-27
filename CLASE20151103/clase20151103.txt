@@ -1,7 +1,0 @@
-HTML
-*Campos de formulario
-
-*Field Set tiene el legend q le da el título
-*Propiedades
-**Disabled (Deshabilitado): button-input-Optgroupoption-selected-textarea
-**ReadOnly: Text-password-textarea
